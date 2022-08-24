@@ -3,3 +3,4 @@
 
 1. [godot shaders](https://godotshaders.com/)
 2. [godot gdscript](https://gdscript.com/tutorials/)
+3. [godot recipes](http://kidscancode.org/godot_recipes/)
